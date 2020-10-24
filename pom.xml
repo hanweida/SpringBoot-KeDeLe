@@ -8,5 +8,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>lab-01-springsecurity</module>
+        <module>lab-02-springcloud-alibaba</module>
     </modules>
 </project>
