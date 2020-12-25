@@ -9,5 +9,6 @@
     <modules>
         <module>lab-01-springsecurity</module>
         <module>labx-01-springcloud-alibaba-nacos</module>
+        <module>labx-01-springcloud-eureka</module>
     </modules>
 </project>

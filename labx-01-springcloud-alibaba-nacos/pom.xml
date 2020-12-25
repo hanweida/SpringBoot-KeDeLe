@@ -12,5 +12,6 @@
 
     <modules>
         <module>labx-01-springcloud-alibaba-nacos-discovery-consumer</module>
+        <module>labx-01-springcloud-alibaba-nacos-discovery-provider</module>
     </modules>
 </project>

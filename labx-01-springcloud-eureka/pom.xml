@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>lab-parent</artifactId>
+        <groupId>com.kedele.springboot.labs</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <modules>
+        <module>labx-01-springcloud-eureka-consumer</module>
+        <module>labx-01-springcloud-eureka-server</module>
+        <module>labx-01-springcloud-provider</module>
+    </modules>
+
+    <artifactId>labx-01-springcloud-eureka</artifactId>
+
+
+</project>
